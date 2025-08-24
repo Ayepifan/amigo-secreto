@@ -42,6 +42,11 @@ No se requiere instalación especial. Solo abre el archivo `index.html` en cualq
    - ¡El amigo secreto será revelado!
 
 ## 📁 Estructura del Proyecto
-
-## 📄 Licencia
-
+amigo-secreto/
+├── index.html
+├── style.css
+├── app.js
+├── README.md
+└── assets/
+├── amigo-secreto.png
+└── play_circle_outline.png
